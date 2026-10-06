@@ -4,7 +4,7 @@ displayName: 短剧剧本编剧
 summary: "短剧剧本与分镜专家技能。当用户需要把故事梗概/小说大纲转化为可拍摄的短剧剧本（场景/对白/动作行）、拆分镜脚本（镜头号/景别/画面/台词/时长/运镜/音效），或需要短剧爆款节奏/对白写作/可拍性审查时，使用此技能。承接 qianjin-novel-writer 的故事内核，专做视听转化，内置可拍性三审闸门。"
 name: qianjin-screenwriter
 description: 短剧剧本与分镜专家技能。当用户需要把故事梗概/小说大纲转化为可拍摄的短剧剧本（场景/对白/动作行）、拆分镜脚本（镜头号/景别/画面/台词/时长/运镜/音效），或需要短剧爆款节奏/对白写作/可拍性审查时，使用此技能。承接 qianjin-novel-writer 的故事内核，专做视听转化，内置可拍性三审闸门。
-version: 1.0.0
+version: 1.0.1
 category: 内容创作
 platforms: [workbuddy, claude-code, cursor, windsurf, codex, linux, macos, windows]
 author: qianjin
